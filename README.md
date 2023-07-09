@@ -10,5 +10,5 @@ NLP Modeling
 - 가지고 있는 데이터셋에 적합한 pos tagging 라이브러리를 찾기 위한 테스트
 
 
-### 
- - Sentence-Transformer를 활용하여 cosine similarity 기반 챗봇 구현
+### Sequence Models
+ - coursera Sequence Models 
