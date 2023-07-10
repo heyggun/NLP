@@ -1,15 +1,4 @@
-# NLP
-NLP Modeling
+# Programming tast 중
 
-
-##KcElectra_filtering_model
-- KcElectra를 이용하여 tokenizing 및 training 하여 binary classification 모델 생성한 과정
-
-
-### Topic modeling
-- LSA, LDA 관련 toy project implement
-
-
-
-### Sequence Models
- - coursera Sequence Models 
+- Operations_on_word_vectors_v2a 의 glove.6B.50d.txt data는 60M 임.
+kaggle에서 구할 수 있음 
