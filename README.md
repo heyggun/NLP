@@ -6,6 +6,9 @@
 - local representation : count-based representation인 BOW, TF-IDF 실습 자료
 - continuous representation : predict-based representation인 Word2Vec 실습 자료
 
+## Text Similarity
+- 문장 유사도 비교 실습 (tf-idf)
+- transformer 기반 문장 유사도 비교
 
 ## Topic modeling
 - LSA, LDA 관련 toy project implement
