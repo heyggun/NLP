@@ -1,15 +1,16 @@
 # NLP
-NLP Modeling
+
+## Word Representation
+- 자연어를 표현하는 word representation 관련 자료들
+- local representation, continuous representation으로 구분되어 있음
+- local representation : count-based representation인 BOW, TF-IDF 실습 자료
+- continuous representation : predict-based representation인 Word2Vec 실습 자료
 
 
-##KcElectra_filtering_model
-- KcElectra를 이용하여 tokenizing 및 training 하여 binary classification 모델 생성한 과정
-
-
-### Topic modeling
+## Topic modeling
 - LSA, LDA 관련 toy project implement
 
-
-
-### Sequence Models
- - coursera Sequence Models 
+## Sequence Models
+ - coursera Sequence Models
+ - RNN, LSTM, GRU, attention, Transformer 구현
+ - 관련 coursera project 실습 자료
