@@ -14,3 +14,6 @@
  - coursera Sequence Models
  - RNN, LSTM, GRU, attention, Transformer 구현
  - 관련 coursera project 실습 자료
+
+## Deep Learning Chatbot
+ - 처음배우는 딥러닝 챗봇 (조경래 지음) 도서 내 챗봇 구현 실습
