@@ -20,3 +20,6 @@
 
 ## Deep Learning Chatbot
  - 처음배우는 딥러닝 챗봇 (조경래 지음) 도서 내 챗봇 구현 실습
+
+## Search word autocomplete
+  - prefix tree(Trie) 자료 구조를 기반으로 키워드 검색 구현
